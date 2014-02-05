@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 Simple search:
 
-```
+```python
 from p7ldap import connection,formatting
 
 con = connection.Connection()
